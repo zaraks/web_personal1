@@ -1,0 +1,21 @@
+body {
+    background-color: darksalmon;
+    font-style: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h1 {
+    color: darkviolet;
+}
+p {
+    color: red;
+    font-size: 18px;
+}
+p1 {
+    color: red;
+    font-size: 15px;
+
+}
+a {
+    color: darkviolet;
+    text-decoration: none;
+}
